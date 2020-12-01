@@ -1,2 +1,3 @@
-# my-website
-a simple website repo to practice with
+# My Website
+
+This is a really awesome website
